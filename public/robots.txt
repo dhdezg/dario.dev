@@ -1,3 +1,9 @@
-# https://www.robotstxt.org/robotstxt.html
+# robots.txt for Dario's Portfolio
+
 User-agent: *
-Disallow:
+Allow: /
+
+# Block access to any configuration or sensitive files
+Disallow: /static/
+Disallow: /private/
+Disallow: /admin/
