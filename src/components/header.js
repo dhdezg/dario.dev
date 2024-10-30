@@ -33,7 +33,7 @@ function Header() {
   };
 
   return (
-    <header className="p-4 bg-gray-100 dark:bg-gray-800 shadow-md relative">
+    <header className="p-4 bg-gray-100 dark:bg-slate-900 shadow-md relative">
       <div className="container mx-auto flex justify-between items-center">
         {/* Ícono pulsable y Título */}
         <div className="flex items-center space-x-4">
