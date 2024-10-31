@@ -7,7 +7,7 @@ function Portfolio() {
   return (
     <div className="App">
       <Header />
-      <p className="dark:bg-slate-900 h-full text-4xl font-bold text-gray-900 dark:text-white">¡Este es mi portafolio personal!</p>
+      <p className="dark:bg-slate-950 h-full text-4xl text-gray-900 dark:text-white h-screen">¡Este es mi portafolio personal!</p>
       <Footer />
     </div>
   );
