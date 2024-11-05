@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.mask-gradient {
+  mask-image: linear-gradient(black 80%, transparent);
+}
